@@ -1,5 +1,7 @@
 # Latent-Driven Reconstruction of Missing Neuroimaging Data in Alzheimer's Research
 
+**Author:** Gabriela Victoria Marín Martín
+
 This repository contains the code used to handle missing data in the Alzheimer's disease dataset using an imputation method based on Latent Variable Models (LVMs). It compares the performance of LVM-based imputation against the state-of-the-art techniques and assesses the effectiveness of the imputed datasets within a regression framework.
 
 To replicate the experiments, the libraries used in this study are the following:
